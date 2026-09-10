@@ -245,3 +245,6 @@ This repository serves as the official landing page for SwifDoo PDF. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of SwifDoo PDF today!**
+
+---
+**Last updated:** 2026-09-10 13:11:30 UTC
